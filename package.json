@@ -25,7 +25,9 @@
     "dateformat": "^3.0.3",
 
     "discord.js": "^11.3.2",
-
+    
+    "axios": "^0.18.0",
+    
     "file-system": "^2.2.2",
 
     "express": "^4.16.3",
